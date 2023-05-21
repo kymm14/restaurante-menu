@@ -44,14 +44,11 @@ Es una página web sencilla hecha con Bootstrap sobre un restaurante incluyendo 
 
 Desktop💻
 
-<img src="./img/captura1.png">  
-<img src="./img/captura2.png">
-<img src="./img/captura3.png">
+<img src="./img/captura-pc1.png">
 
 Phone📱
+
 <img src="./img/captura-movil1.png">
-<img src="./img/captura-movil2.png">
-<img src="./img/captura-movil3.png">
 
 ## Contacto
 
