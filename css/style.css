@@ -5,6 +5,7 @@
 :root {
   --background-color: #d6eaf8;
   --font-family: "Raleway", serif;
+  --font-famliy-secundaria: "Lato", sans-serif;
 }
 
 .container-nav {
@@ -12,13 +13,13 @@
   margin: 4em;
 }
 
-.navbar-brand {
-  padding-left: 1em;
-}
-
 .navbar-nav {
   margin: 0;
   padding: 0;
+}
+
+.navbar-brand {
+  padding-left: 1em;
 }
 
 .navbar-nav li {
@@ -88,7 +89,7 @@
   position: relative;
 }
 
-span {
+span.precios {
   position: absolute;
   right: 0px;
   top: 7px;
@@ -123,5 +124,5 @@ h5 {
 }
 
 p {
-  font-family: "Lato", sans-serif;
+  font-family: var(--font-famliy-secundaria);
 }
