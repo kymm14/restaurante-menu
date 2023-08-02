@@ -1,4 +1,4 @@
-# Welcome to my Restaurant App
+# Welcome to Cala Petita Restaurant
 
 <details>
   <summary>Contenido 📝</summary>
@@ -18,7 +18,7 @@ Crear una página web responsive de un restaurante utilizando Bootstrap con tres
 
 ## Sobre el proyecto 🔎
 
-Es una página web sencilla hecha con Bootstrap sobre un restaurante incluyendo sus diferentes apartados como el Inicio, Carta y Contacto.
+Es una página web de un restaurant sencilla hecha con Bootstrap incluyendo sus diferentes apartados como el Inicio, Carta y Contacto.
 
 ## Deploy 🚀
 
